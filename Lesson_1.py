@@ -1,1 +1,1 @@
-print("CHanges of Lesson 1")
+print("Changes of Lesson 1")
